@@ -1,0 +1,1 @@
+Classification model that estimates an applicant’s probability of admission based on the scores from two exams. Used historical data from previous applicants as a training set for logistic regression.
